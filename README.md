@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🕹️ Olá, eu sou o Kain!
+  # 🕹️ Olá, eu sou o DarRajada!
   ### Desenvolvedor Pawn & Entusiasta da Comunidade SAMP
   
   ---
